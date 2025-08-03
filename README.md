@@ -18,4 +18,3 @@ Early-stage success demands speed and efficiency. I prioritize battle-tested sol
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazonov-src&hide_progress=true)
----

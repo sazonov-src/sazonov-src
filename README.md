@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Vitalii 👋
 
-<!--
-**sazonov-src/sazonov-src** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Product Developer & Cloud Architect
 
-Here are some ideas to get you started:
+I help businesses transform ideas into scalable, production-ready products—fast. By leveraging proven tools and cloud-native architecture, I build solutions that deliver immediate business value without unnecessary complexity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Bring to the Table
+- **Authentication Systems**: Fast, flexible user management with AWS Cognito + role-based access
+- **Serverless Architecture**: Cost-efficient AWS Lambda & SAM implementations (pay-per-use model)
+- **Modern UI/UX**: Responsive interfaces with Tailwind CSS + TypeScript/React
+- **Payment Systems**: Seamless Stripe integrations and third-party service connections
+- **AI-Powered Development**: Accelerated MVP delivery using AI-assisted workflows
+
+### 🧩 My Philosophy
+Early-stage success demands speed and efficiency. I prioritize battle-tested solutions over custom-built complexity—delivering maximum value with minimal overhead. As I like to say: *"You don't need a custom rocket when a jet gets you there faster."*
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazonov-src&hide_progress=true)
+---
+
+> "The best code is the code that never needs to be written"  
+> — My approach to leveraging existing solutions
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)

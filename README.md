@@ -13,8 +13,5 @@ I help businesses transform ideas into scalable, production-ready products—fas
 - **Payment Systems**: Seamless Stripe integrations and third-party service connections
 - **AI-Powered Development**: Accelerated MVP delivery using AI-assisted workflows
 
-### 🧩 My Philosophy
-Early-stage success demands speed and efficiency. I prioritize battle-tested solutions over custom-built complexity—delivering maximum value with minimal overhead. As I like to say: *"You don't need a custom rocket when a jet gets you there faster."*
-
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazonov-src&hide_progress=true)

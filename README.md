@@ -19,8 +19,3 @@ Early-stage success demands speed and efficiency. I prioritize battle-tested sol
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazonov-src&hide_progress=true)
 ---
-
-> "The best code is the code that never needs to be written"  
-> — My approach to leveraging existing solutions
-
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
